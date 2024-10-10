@@ -15,7 +15,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=ksavlekov)
+![](https://komarev.com/ghpvc/?username=ksavlekov&color=brightgreen)
 
 ###
 
