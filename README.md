@@ -4,24 +4,15 @@
 
 ###
 
-<h2 align="left">I code with:</h2>
+<h2 align="left"> </h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">I'm using:</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
 </div>
 
 ###
