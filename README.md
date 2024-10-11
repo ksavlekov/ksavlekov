@@ -1,5 +1,5 @@
 - Hi there 👋, I'm Krastyo Savlekov
-- 👀 I’m interested in JAVA
+- 👀 I’m interested in JAVA and Software QA
 - 🎓 I’m currently learning JAVA in Software University (SoftUni)
 
 ###
